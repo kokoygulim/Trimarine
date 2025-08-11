@@ -1,23 +1,16 @@
 [
-    {
-        "device_id": "yyyyyyyhyh",
-        "username": "User123",
-        "password": "Pass123",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "f0486e57dd040e0a",
-        "username": "User123",
-        "password": "Pass123",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    }
+  {
+    "id": "f0486e57dd040e0a",
+    "username": "User123",
+    "password": "Pass123",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "android_device_id_2",
+    "username": "user2",
+    "password": "pass2",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  }
 ]
