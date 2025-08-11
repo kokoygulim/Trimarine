@@ -1,8 +1,8 @@
 [
     {
         "device_id": "yyyyyyyhyh",
-        "username": "Username",
-        "password": "Password",
+        "username": "User123",
+        "password": "Pass123",
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
