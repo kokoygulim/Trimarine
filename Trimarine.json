@@ -4,7 +4,7 @@
     "username": "User123",
     "password": "Pass123",
     "expiresAt": "2025-12-31",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "f11467b39b10a6ec",
